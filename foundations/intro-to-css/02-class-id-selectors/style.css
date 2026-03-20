@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.odd {
+  background-color: lightcoral;
+  font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.odd.bigger-text {
+  font-size: 24px;
+}
+
+ #blue {
+  color: blue;
+  font-size: 36px;
+}
+
+#green {
+  color: green;
+  font-size: 24px;
+  font-weight: bold;
+}
